@@ -4,6 +4,11 @@ html {
   width: 100%;
 }
 
+container {
+  text-align: center;
+  width: 100%;
+}
+
 h1 {
   color: #FFFFFF;
   font-family: Verdana;
@@ -14,5 +19,4 @@ h1 {
 
 main {
   width: 100%;
-  text-align: center;
 }
