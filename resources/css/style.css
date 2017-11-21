@@ -9,6 +9,10 @@ html {
   width: 100%;
 }
 
+.link a {
+  color: blue;
+}
+
 h1 {
   color: #FFFFFF;
   font-family: Verdana;
@@ -34,8 +38,7 @@ color: #FFFFFF;
   color: Gray;
 }
 
-.container .footer {
-  text-align: right;
+.container .footer p {
   color: Gray;
   font-family: Verdana;
 }
