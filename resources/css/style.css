@@ -12,6 +12,7 @@ html {
 .link a {
   color: Aquamarine;
   font-size: 16px;
+  font-family: Verdana;
 }
 
 h1 {
@@ -33,10 +34,10 @@ font-family: Verdana;
 color: #FFFFFF;
 }
 
-.subheader2 {
-  font-family: Verdana;
-  font-size: 21 px;
+.subheader p {
   color: Gray;
+  font-size: 21px;
+  font-family: Verdana;
 }
 
 .container .footer p {
