@@ -40,6 +40,10 @@ color: #FFFFFF;
   font-family: Verdana;
 }
 
+.pic {
+  padding: 10px;
+}
+
 .container .footer p {
   color: Gray;
   font-family: Verdana;
